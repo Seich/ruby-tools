@@ -24,3 +24,5 @@ With lazy, you can install the plugin with one line:
 This is basically built for my own config so there are no options to change. If
 you need anything else out of this plugin feel free to open a pr or copy and
 paste it and customize it to be your own.
+
+https://github.com/user-attachments/assets/855055a9-a7f5-4756-9e2c-67e5a6cd3251
